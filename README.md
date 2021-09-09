@@ -16,6 +16,9 @@
   <img align="left" alt="Roshan Leetcode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=Rosh008.Rosh008)
+
+
 <!-- - 👋 Hi, I’m Roshan Wazare
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Android , React
