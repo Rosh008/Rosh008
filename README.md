@@ -46,10 +46,9 @@
 
 <br/>
 📈 My github stats
-<br/>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rosh008&show_icons=true&theme=gotham" alt="Roshan stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rosh008&show_icons=true&theme=gotham" alt="Roshan stats" /><br>
 
 
 <!---
