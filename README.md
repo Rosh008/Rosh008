@@ -3,7 +3,10 @@
   <img align="left" alt="Roshan LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Rosh_0007">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Roshan Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://leetcode.com/Rosh_008/">
+  <img align="left" alt="Roshan Leetcode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
 </a>
 
 <!-- - 👋 Hi, I’m Roshan Wazare
