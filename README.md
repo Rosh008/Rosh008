@@ -16,13 +16,37 @@
   <img align="left" alt="Roshan Leetcode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Rosh008.Rosh008)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Rosh008)
+
+<br />
+
+**About me:**  
+
+- 📱  Android Developer
+- 👀 Problem solver interested in Software Development
+- 🌱 I’m currently learning React
+- 👨‍💻 Love to brush up DS Algo skills in free time
+- 📫 You can reach me on roshanwazare@gmail.com
+- 💬 ask me about anything
+
+**Languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<!-- - 👋 Hi, I’m Roshan Wazare
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Android , React
-- 📫 You can reach me on roshanwazare@gmail.com -->
+<br/>
+📈 My github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rosh008&show_icons=true&theme=gotham" alt="Roshan stats" />
+
 
 <!---
 Rosh008/Rosh008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
