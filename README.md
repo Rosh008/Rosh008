@@ -24,9 +24,9 @@
 
 **About me:**  
 
-- 📱  Android Developer
+- 📱  Web/Android Developer
 - 👀 Problem solver interested in Software Development
-- 🌱 I’m currently learning React
+- 🌱 Currently working on React, Redux
 - 👨‍💻 Love to brush up DS Algo skills in free time
 - 📫 You can reach me on roshanwazare@gmail.com
 - 💬 ask me about anything
