@@ -1,9 +1,9 @@
 ### Hi, I’m Roshan
 <a href="https://www.linkedin.com/in/roshan-wazare-437506180/">
-  <img align="left" alt="Roshan LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Roshan LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 <a href="https://twitter.com/Rosh_0007">
-  <img align="left" alt="Roshan Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Roshan Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.instagram.com/_rosh_008">
   <img align="left" alt="Roshan Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
